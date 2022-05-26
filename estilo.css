@@ -1,0 +1,116 @@
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: red;
+}
+
+#estilo1{
+	text-decoration: underline;
+	text-transform: capitalize;
+	color: blue;
+	text-align: center;
+}
+
+.estilo2{
+  color: red;
+	text-align: right;
+	border-style: dotted;
+	background-color:DodgerBlue;
+	border-radius: 25px;
+}
+
+.boton {
+  background-color: #000000; /* verde */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.boton1 {
+  background-color: #f75757; 
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+
+.boton1:hover {
+  background-color: #d15050;
+  color: white;
+}
+
+.boton2 {
+  background-color: #474747; 
+  border: none;
+  color: gray;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+
+.boton2:hover {
+  background-color: #575757;
+  color: white;
+}
+
+.boton3 {
+  background-color: #8f8d8d; 
+  color: black; 
+  border: none;
+}
+
+.boton3:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.boton4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.boton4:hover {background-color: #e7e7e7;}
+
+.boton5 {
+
+  background-color: black;
+
+  color: black;
+  border:black;
+  
+}
+
+.boton5:hover {
+  background-color:black;
+  color: black;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
